@@ -31,3 +31,4 @@ C:\Users\Usuario\Desktop\All\Programcion\C#\Proyectos\Unit converter\UnitConvert
 C:\Users\Usuario\Desktop\All\Programcion\C#\Proyectos\Unit converter\UnitConverter.Api\obj\Debug\net10.0\UnitConverter.Api.pdb
 C:\Users\Usuario\Desktop\All\Programcion\C#\Proyectos\Unit converter\UnitConverter.Api\obj\Debug\net10.0\UnitConverter.Api.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\All\Programcion\C#\Proyectos\Unit converter\UnitConverter.Api\obj\Debug\net10.0\ref\UnitConverter.Api.dll
+C:\Users\Usuario\Desktop\All\Programcion\C#\Proyectos\Unit converter\UnitConverter.Api\obj\Debug\net10.0\UnitConverter.Api.sourcelink.json
